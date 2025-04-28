@@ -8,4 +8,4 @@ Documentos:
 - [Programa en ipynb](TallerRedesNeuronales.ipynb)
 - [Programa python de predicciones en tiempo real](live_capture_predict##.py)
 - [Modelo que se utilizo en predicciones en tiempo real](TallerRedesNeuronales.ipynb)
-- [Video]()
+- [Video](model_predicting_live.mp4)
